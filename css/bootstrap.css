@@ -1,4 +1,4 @@
-@media screen and (max-width: 480px) {
+/* @media screen and (max-width: 480px) {
     body {
         background-color: lightgreen;
     }
@@ -13,6 +13,11 @@
     body {
         background-color: darksalmon;
     }
+} */
+
+div {
+    border: solid black 2px;
+    height: 50px;
 }
 
 /* .row > div{
